@@ -1,0 +1,12 @@
+Django==4.2.1
+django-admin-thumbnails==0.2.8
+django-ckeditor==6.7.0
+django-currencies==0.10.1
+django-js-asset==2.1.0
+django-mptt==0.15.0
+google-cloud==0.34.0
+Pillow==10.0.0
+uvicorn==0.23.2
+virtualenv==20.24.6
+
+
